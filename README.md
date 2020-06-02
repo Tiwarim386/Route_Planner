@@ -14,8 +14,9 @@ In this project, I've applied A* search to implement a "Google-maps" style route
 1. helpers.py - Contains helper functions for loading and displaying the maps.
 2. map-10.pickle - Contains the map with 10 nodes.
 3. map-40.pickle - Contains the map with 40 nodes.
-4. project_notebook.ipynb - Jupyter notebook that contains all the instructions for the project
+4. Route Planner.ipynb - Jupyter notebook that contains all the instructions for the project
 5. test.py - Contains function for testing the route planner implementation.
+6. student_code - Contains Implemented algorithm to find the required shortest path.
 
 ### Maps Used
 
